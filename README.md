@@ -6,8 +6,8 @@ Sou Gabriel Pereira e estou em busca de uma oportunidade na área de desenvolvim
 
 <div>
   <a href="https://github.com/GabrielPereira007">
-  <img width = "40%" src="https://github-readme-stats.vercel.app/api?username=GabeAugust&show_icons=true&theme=dracula">
-  <img  width = "40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeAugust&layout=compact&theme=dracula">
+  <img width = "40%" heigth = "500" src="https://github-readme-stats.vercel.app/api?username=GabeAugust&show_icons=true&theme=dracula">
+  <img  width = "40%"  heigth = "500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeAugust&layout=compact&theme=dracula">
 </div>
 
 ## Languages 
