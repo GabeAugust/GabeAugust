@@ -11,8 +11,8 @@ Tenho experiência com **HTML**, **CSS** e noções de **JavaScript**, além de 
 
 <div align="center">
   <a href="https://github.com/GabeAugust">
-     <img width = "40%" height="200em" src="https://github-readme-stats.vercel.app/api?username=GabeAugust&show_icons=true&theme=dracula"/>
-    <img width = "40%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeAugust&layout=compact&theme=dracula"/>
+     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GabeAugust&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeAugust&layout=compact&theme=dracula"/>
   </a>
 </div>
 
