@@ -1,7 +1,7 @@
 ## Hello!! 👋
 
 Sou **Gabriel Pereira**, estudante de **Engenharia de Software**, em busca de uma oportunidade na área de **desenvolvimento de software**.  
-Tenho experiência com **HTML**, **CSS** e noções de **JavaScript**, além de estar aprofundando meus estudos em **Java** (foco em back-end) e **React**.  
+Tenho experiência com **HTML**, **CSS** e noções de **JavaScript**, além de estar aprofundando meus estudos em **Java** (foco em back-end) e **React**(foco em front-end).  
 
 💡 Meu objetivo é aplicar e expandir minhas habilidades em tecnologia para criar soluções eficientes, escaláveis e que ofereçam uma excelente experiência ao usuário.
 
