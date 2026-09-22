@@ -1,0 +1,63 @@
+<svg width="900" height="390" viewBox="0 0 900 390" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="run" x1="0" x2="1">
+      <stop offset="0%" stop-color="#238636"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="390" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="388" rx="15" fill="none" stroke="#30363d"/>
+
+  <circle cx="26" cy="24" r="5" fill="#ff5f57"/>
+  <circle cx="44" cy="24" r="5" fill="#febc2e"/>
+  <circle cx="62" cy="24" r="5" fill="#28c840"/>
+
+  <text x="86" y="29" fill="#8b949e" font-size="13" font-family="monospace">./currently</text>
+
+  <text x="28" y="70" fill="#3fb950" font-size="15" font-family="monospace">[ SYSTEM ]</text>
+  <text x="140" y="70" fill="#f0f6fc" font-size="15" font-family="monospace">Gabriel Pereira</text>
+  <text x="28" y="96" fill="#3fb950" font-size="15" font-family="monospace">[ ROLE   ]</text>
+  <text x="140" y="96" fill="#f0f6fc" font-size="15" font-family="monospace">Software Engineering Student</text>
+  <text x="28" y="122" fill="#3fb950" font-size="15" font-family="monospace">[ FOCUS  ]</text>
+  <text x="140" y="122" fill="#f0f6fc" font-size="15" font-family="monospace">Back-end Development</text>
+  <text x="28" y="148" fill="#3fb950" font-size="15" font-family="monospace">[ MAIN   ]</text>
+  <text x="140" y="148" fill="#f0f6fc" font-size="15" font-family="monospace">Java + Spring</text>
+
+  <line x1="28" y1="170" x2="872" y2="170" stroke="#21262d"/>
+
+  <g font-family="monospace" font-size="14">
+    <text x="28" y="208" fill="#8b949e">Java</text>
+    <text x="28" y="246" fill="#8b949e">Spring Boot</text>
+    <text x="28" y="284" fill="#8b949e">JPA / Hibernate</text>
+    <text x="28" y="322" fill="#8b949e">Docker</text>
+  </g>
+
+  <g>
+    <rect x="190" y="196" width="610" height="14" rx="7" fill="#21262d"/>
+    <rect x="190" y="234" width="610" height="14" rx="7" fill="#21262d"/>
+    <rect x="190" y="272" width="610" height="14" rx="7" fill="#21262d"/>
+    <rect x="190" y="310" width="610" height="14" rx="7" fill="#21262d"/>
+
+    <rect x="190" y="196" width="610" height="14" rx="7" fill="url(#run)">
+      <animate attributeName="opacity" values="0.82;1;0.82" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="190" y="234" height="14" rx="7" fill="url(#run)">
+      <animate attributeName="width" values="70;470;250;470" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="190" y="272" height="14" rx="7" fill="url(#run)">
+      <animate attributeName="width" values="60;390;210;390" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="190" y="310" height="14" rx="7" fill="url(#run)">
+      <animate attributeName="width" values="30;190;90;190" dur="5.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="28" y="365" fill="#8b949e" font-size="14" font-family="monospace">current_process: becoming_a_better_developer.exe</text>
+  <rect x="525" y="352" width="9" height="16" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

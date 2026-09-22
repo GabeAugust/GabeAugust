@@ -1,0 +1,35 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="250" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="248" rx="15" fill="none" stroke="#30363d"/>
+
+  <text x="32" y="45" fill="#f0f6fc" font-size="18" font-family="monospace" font-weight="700">./projects --status</text>
+
+  <g font-family="monospace" font-size="14">
+    <text x="36" y="92" fill="#f0f6fc">Wedjat</text>
+    <text x="210" y="92" fill="#3fb950">EVOLVING</text>
+    <text x="36" y="132" fill="#f0f6fc">GameHub</text>
+    <text x="210" y="132" fill="#d29922">BUILDING</text>
+    <text x="36" y="172" fill="#f0f6fc">Passa Bola</text>
+    <text x="210" y="172" fill="#58a6ff">SHIPPED</text>
+    <text x="36" y="212" fill="#f0f6fc">F1 App</text>
+    <text x="210" y="212" fill="#bc8cff">IMPROVING</text>
+  </g>
+
+  <g>
+    <rect x="350" y="79" width="490" height="12" rx="6" fill="#21262d"/>
+    <rect x="350" y="119" width="490" height="12" rx="6" fill="#21262d"/>
+    <rect x="350" y="159" width="490" height="12" rx="6" fill="#21262d"/>
+    <rect x="350" y="199" width="490" height="12" rx="6" fill="#21262d"/>
+
+    <rect x="350" y="79" height="12" rx="6" fill="#3fb950">
+      <animate attributeName="width" values="150;450;290;450" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="350" y="119" height="12" rx="6" fill="#d29922">
+      <animate attributeName="width" values="70;360;180;360" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="350" y="159" width="490" height="12" rx="6" fill="#58a6ff"/>
+    <rect x="350" y="199" height="12" rx="6" fill="#bc8cff">
+      <animate attributeName="width" values="100;400;220;400" dur="5.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

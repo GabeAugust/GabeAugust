@@ -1,0 +1,36 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="420" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="418" rx="15" fill="none" stroke="#30363d"/>
+
+  <text x="32" y="48" fill="#f0f6fc" font-size="18" font-family="monospace" font-weight="700">stack.runtime()</text>
+  <text x="32" y="74" fill="#8b949e" font-size="13" font-family="monospace">modules loaded in current environment</text>
+
+  <g font-family="monospace" font-size="14">
+    <text x="44" y="124" fill="#3fb950">backend/</text>
+    <text x="72" y="154" fill="#f0f6fc">├─ Java</text>
+    <text x="72" y="181" fill="#f0f6fc">├─ Spring Boot</text>
+    <text x="72" y="208" fill="#f0f6fc">├─ JPA / Hibernate</text>
+    <text x="72" y="235" fill="#f0f6fc">└─ REST APIs</text>
+
+    <text x="470" y="124" fill="#58a6ff">frontend/</text>
+    <text x="498" y="154" fill="#f0f6fc">├─ React</text>
+    <text x="498" y="181" fill="#f0f6fc">├─ JavaScript</text>
+    <text x="498" y="208" fill="#f0f6fc">├─ HTML</text>
+    <text x="498" y="235" fill="#f0f6fc">└─ CSS</text>
+
+    <text x="44" y="290" fill="#d29922">database/</text>
+    <text x="72" y="320" fill="#f0f6fc">├─ PostgreSQL</text>
+    <text x="72" y="347" fill="#f0f6fc">├─ MySQL</text>
+    <text x="72" y="374" fill="#f0f6fc">└─ SQL Server</text>
+
+    <text x="470" y="290" fill="#bc8cff">tools/</text>
+    <text x="498" y="320" fill="#f0f6fc">├─ Git / GitHub</text>
+    <text x="498" y="347" fill="#f0f6fc">├─ Docker</text>
+    <text x="498" y="374" fill="#f0f6fc">└─ IntelliJ / VS Code</text>
+  </g>
+
+  <circle cx="836" cy="45" r="6" fill="#3fb950">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="814" y="78" fill="#3fb950" font-family="monospace" font-size="12">ONLINE</text>
+</svg>

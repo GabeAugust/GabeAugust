@@ -1,0 +1,26 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#238636"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="150" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="148" rx="15" fill="none" stroke="#30363d"/>
+
+  <text x="500" y="58" text-anchor="middle" fill="#f0f6fc" font-size="18" font-family="monospace">
+    build → break → debug → learn → repeat
+  </text>
+
+  <rect x="160" y="80" width="680" height="4" rx="2" fill="#21262d"/>
+  <rect x="160" y="80" width="130" height="4" rx="2" fill="url(#line)">
+    <animate attributeName="x" values="160;710;160" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="468" y="116" fill="#8b949e" font-size="14" font-family="monospace">$ next_challenge</text>
+  <rect x="600" y="103" width="8" height="16" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
